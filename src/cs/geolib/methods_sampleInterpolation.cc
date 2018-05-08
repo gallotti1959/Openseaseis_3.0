@@ -236,7 +236,7 @@ template <typename T> void sincFunction( T value ) {
     return sin(tmp)/tmp;
   }
   else {
-    return 1.0;
+    return ;
   }
 }
 
